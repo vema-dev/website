@@ -1,0 +1,6 @@
+.footer {
+  background-color: var(--color-bg-v);
+  min-height: 100px;
+  width: 100%;
+  display: block;
+}
