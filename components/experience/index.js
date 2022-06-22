@@ -15,6 +15,8 @@ const Experience = () => {
     ],
     lib: [
       { id: 1, name: 'React', progress: 100 },
+      { id: 1, name: 'React Native', progress: 95 },
+      { id: 1, name: 'Redux', progress: 80 },
       { id: 2, name: 'NextJS', progress: 100 },
       { id: 3, name: 'Framework7', progress: 100 },
       { id: 4, name: 'NodeJS', progress: 80 },
