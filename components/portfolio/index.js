@@ -1,11 +1,4 @@
 import styles from './index.module.css';
-// import IMG1 from '../../public/assets/portfolio1.jpg';
-// import IMG2 from "../../public//assets/portfolio2.jpg";
-// import IMG3 from "../../public//assets/portfolio3.jpg";
-// import IMG4 from "../../public//assets/portfolio4.jpg";
-// import IMG5 from "../../public//assets/portfolio5.png";
-// import IMG6 from "../../public//assets/portfolio6.jpg";
-import Image from 'next/image';
 
 const data = [
   {
@@ -13,7 +6,7 @@ const data = [
     //image: IMG1,
     title: 'How i work',
     service: 'Youtube',
-    serviceUrl: '',
+    serviceUrl: 'https://youtu.be/q_k4fHreVVk',
     liveUrl: null,
   },
   {
