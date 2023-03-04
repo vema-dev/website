@@ -8,7 +8,7 @@ const Experience = () => {
       { id: 1, name: 'HTML', progress: 100 },
       { id: 2, name: 'CSS', progress: 90 },
       { id: 3, name: 'JavaScript', progress: 100 },
-      { id: 4, name: 'TypeScript', progress: 90 },
+      { id: 4, name: 'TypeScript', progress: 100 },
       { id: 5, name: 'Swift', progress: 60 },
       { id: 6, name: 'PHP', progress: 40 },
       { id: 7, name: 'Java', progress: 40 },
