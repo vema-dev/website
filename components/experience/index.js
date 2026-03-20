@@ -11,7 +11,9 @@ const Experience = () => {
       { id: 4, name: 'TypeScript', progress: 100 },
       { id: 5, name: 'Swift', progress: 90 },
       { id: 6, name: 'PHP', progress: 40 },
-      { id: 7, name: 'Java', progress: 40 },
+      { id: 7, name: 'Java, Kotlin', progress: 40 },
+      { id: 8, name: 'C / C++', progress: 50 },
+      { id: 9, name: 'Python', progress: 70 },
     ],
     lib: [
       { id: 1, name: 'React', progress: 100 },
